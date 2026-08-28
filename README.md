@@ -118,4 +118,4 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,100:38ef7d&height=100&section=footer&text=Catch%20you%20on%20the%20next%20commit!%20%F0%9F%9A%80&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=curve&color=0:11998e,100:38ef7d&height=100&section=footer&text=Let's%20build%20something%20great%20together%20%E2%9C%A8&fontSize=22&fontColor=fff" width="100%"/>

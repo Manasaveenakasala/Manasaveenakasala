@@ -8,7 +8,7 @@
 -->
 <!-- <img src="https://raw.githubusercontent.com/Manasaveenakasala/Manasaveenakasala/main/banner.png" alt="Manasa Veena banner" width="100%"/> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Manasa+Veena;Software+Engineer+II;React+%C2%B7+Node.js+%C2%B7+Azure+%C2%B7+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Manasa+Veena;Software+Engineer;React+%C2%B7+Node.js+%C2%B7+Azure+%C2%B7+AI+Enthusiast" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasaveenakasala/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasaui10@gmail.com)
@@ -96,7 +96,7 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 <!-- Descriptions are inferred from repo names since none are set on GitHub yet — edit any that don't match. -->
 
 | 💼 [interview-portal](https://github.com/Manasaveenakasala/interview-portal)<br><br>[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Manasaveenakasala/interview-portal)<br><br>Portal for managing or conducting interviews:<br>• Interview scheduling / tracking<br>• Candidate or question management<br><br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | 💰 [Budger-category-ledger-and-spending-chart](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart)<br><br>[![View Project](https://img.shields.io/badge/View_Project-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart)<br><br>Budgeting tool with category tracking:<br>• Category-based ledger<br>• Spending visualizations / charts<br><br>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
-| --- | --- |
+| :---: | :---: |
 | 🏥 [Medical-data-validator](https://github.com/Manasaveenakasala/Medical-data-validator)<br><br>[![View Project](https://img.shields.io/badge/View_Project-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasaveenakasala/Medical-data-validator)<br><br>Validates medical data records:<br>• Rule-based field validation<br>• Data quality checks<br><br>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | 💵 [Salary-tracker](https://github.com/Manasaveenakasala/Salary-tracker)<br><br>[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Manasaveenakasala/Salary-tracker)<br><br>Tracks salary and earnings over time:<br>• Income / expense logging<br>• Summary reporting<br><br>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

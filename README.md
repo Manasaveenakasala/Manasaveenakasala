@@ -22,7 +22,7 @@
 
 Oh, hi there! Welcome to my GitHub. 👩‍💻
 
-I'm a **Software Engineer II** passionate about building scalable, reliable, and user-focused applications. I have experience working on enterprise-scale products at **Kroger, Microsoft, and Mastercard**, with a strong focus on modern web development and cloud technologies.
+I'm a **Software Engineer II** passionate about building scalable, reliable, and user-focused applications. I have experience working on enterprise-scale products at **Kroger, Microsoft, and Mastercard** with a strong focus on modern web development and cloud technologies.
 
 - 💻 **Software Engineering:** React, Angular, TypeScript, JavaScript, Next.js, Node.js, Redux, SQL
 - ☁️ **Cloud & Development:** Azure, AWS, Docker, Git
@@ -37,7 +37,6 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -54,7 +53,6 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 ### Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### Cloud & DevOps
@@ -72,7 +70,6 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -111,11 +108,15 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a11cb,100:2575fc&height=100&section=footer&text=Catch%20you%20on%20the%20next%20commit!%20%F0%9F%9A%80&fontSize=22&fontColor=fff&animation=fadeIn" width="100%"/>
+## 🤝 Let's Connect!
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasaveenakasala/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasaui10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasaveenakasala)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer&text=Catch%20you%20on%20the%20next%20commit!%20%F0%9F%9A%80&fontSize=22&fontColor=fff" width="100%"/>
 
 <div align="center">
 

@@ -100,37 +100,19 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 | Project | Language | Description |
 |---|---|---|
-| [Linked-List](https://github.com/Manasaveenakasala/Linked-List) | Python | Implementation of a singly linked list data structure with core operations. |
-| [Discount-Calculator](https://github.com/Manasaveenakasala/Discount-Calculator) | Python | Calculates discounted prices based on user-defined rules. |
-| [Player-Interface](https://github.com/Manasaveenakasala/Player-Interface) | Python | Interface for managing player data/actions, likely for a game. |
-| [Polygon-Area-Calculator](https://github.com/Manasaveenakasala/Polygon-Area-Calculator) | — | Computes the area of polygons from given coordinates or side lengths. |
-| [Media-catalogue](https://github.com/Manasaveenakasala/Media-catalogue) | Python | Catalog system for organizing and tracking media items. |
-| [Game-Character](https://github.com/Manasaveenakasala/Game-Character) | Python | Character class/system for a game, handling stats and behavior. |
-| [Salary-tracker](https://github.com/Manasaveenakasala/Salary-tracker) | Python | Tracks salary, expenses, or earnings over time. |
-| [Budger-category-ledger-and-spending-chart](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart) | Python | Budgeting tool with category-based ledger and spending visualizations. |
-| [Email-Simulator](https://github.com/Manasaveenakasala/Email-Simulator) | Python | Simulates sending/receiving emails for testing or learning purposes. |
-| [Musical-Instrument-Inventory](https://github.com/Manasaveenakasala/Musical-Instrument-Inventory) | Python | Inventory management system for musical instruments. |
-| [Medical-data-validator](https://github.com/Manasaveenakasala/Medical-data-validator) | Python | Validates medical data records against defined rules. |
-| [pin-extractor](https://github.com/Manasaveenakasala/pin-extractor) | Python | Extracts PIN codes or similar identifiers from text/data. |
-| [Caesar-Cipher](https://github.com/Manasaveenakasala/Caesar-Cipher) | Python | Classic Caesar cipher encryption/decryption implementation. |
-| [Python](https://github.com/Manasaveenakasala/Python) | Python | Collection of general Python exercises and scripts. |
 | [interview-portal](https://github.com/Manasaveenakasala/interview-portal) | JavaScript | Portal for managing or conducting interviews. |
-| [coffee-brewing-game](https://github.com/Manasaveenakasala/coffee-brewing-game) | Python | A game simulating the coffee brewing process. |
-| [ui-playground](https://github.com/Manasaveenakasala/ui-playground) | — | Sandbox repo for experimenting with UI components and ideas. |
+| [Budger-category-ledger-and-spending-chart](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart) | Python | Budgeting tool with category-based ledger and spending visualizations. |
+| [Medical-data-validator](https://github.com/Manasaveenakasala/Medical-data-validator) | Python | Validates medical data records against defined rules. |
+| [Salary-tracker](https://github.com/Manasaveenakasala/Salary-tracker) | Python | Tracks salary, expenses, or earnings over time. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 🎯 Hobbies & Interests
 
-<div align="center">
+- 🤖 **AI & LLMs** — exploring generative AI, LLM applications, and AI-powered experiences
+- 📚 **Learning New Tech** — always picking up new frameworks, tools, and languages
 
-![](https://github-readme-stats.shion.dev/api?username=Manasaveenakasala&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Manasaveenakasala&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manasaveenakasala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 

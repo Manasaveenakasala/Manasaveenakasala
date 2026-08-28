@@ -94,23 +94,20 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<!-- Descriptions below are inferred from repo names since none are set on GitHub yet — edit any that don't match. -->
+<!-- Descriptions are inferred from repo names since none are set on GitHub yet — edit any that don't match. -->
 
-| Project | Language | Description |
-|---|---|---|
-| [interview-portal](https://github.com/Manasaveenakasala/interview-portal) | JavaScript | Portal for managing or conducting interviews. |
-| [Budger-category-ledger-and-spending-chart](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart) | Python | Budgeting tool with category-based ledger and spending visualizations. |
-| [Medical-data-validator](https://github.com/Manasaveenakasala/Medical-data-validator) | Python | Validates medical data records against defined rules. |
-| [Salary-tracker](https://github.com/Manasaveenakasala/Salary-tracker) | Python | Tracks salary, expenses, or earnings over time. |
+| 💼 [interview-portal](https://github.com/Manasaveenakasala/interview-portal)<br>[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Manasaveenakasala/interview-portal)<br>Portal for managing or conducting interviews:<br>• Interview scheduling / tracking<br>• Candidate or question management<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | 💰 [Budger-category-ledger-and-spending-chart](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart)<br>[![View Project](https://img.shields.io/badge/View_Project-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart)<br>Budgeting tool with category tracking:<br>• Category-based ledger<br>• Spending visualizations / charts<br>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| --- | --- |
+| 🏥 [Medical-data-validator](https://github.com/Manasaveenakasala/Medical-data-validator)<br>[![View Project](https://img.shields.io/badge/View_Project-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasaveenakasala/Medical-data-validator)<br>Validates medical data records:<br>• Rule-based field validation<br>• Data quality checks<br>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | 💵 [Salary-tracker](https://github.com/Manasaveenakasala/Salary-tracker)<br>[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Manasaveenakasala/Salary-tracker)<br>Tracks salary and earnings over time:<br>• Income / expense logging<br>• Summary reporting<br>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Hobbies & Interests
 
-- 🤖 **AI & LLMs** — exploring generative AI, LLM applications, and AI-powered experiences
-- 📚 **Learning New Tech** — always picking up new frameworks, tools, and languages
+![AI & LLMs](https://img.shields.io/badge/🤖_AI_&_LLMs-00D9FF?style=for-the-badge&logoColor=black)
+![Learning New Tech](https://img.shields.io/badge/📚_Learning_New_Tech-4CAF50?style=for-the-badge&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

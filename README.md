@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-Oh, hi there! Welcome to my GitHub. 👩‍💻
+Oh Hi there... 👋
 
 I'm a **Software Engineer II** passionate about building scalable, reliable, and user-focused applications. I have experience working on enterprise-scale products at **Kroger, Microsoft, and Mastercard** with a strong focus on modern web development and cloud technologies.
 
@@ -108,20 +108,14 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 📍 Where to find me
 
-## 🤝 Let's Connect!
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasaveenakasala/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasaui10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manasaveenakasala)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer&text=Catch%20you%20on%20the%20next%20commit!%20%F0%9F%9A%80&fontSize=22&fontColor=fff" width="100%"/>
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Manasaveenakasala&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,100:38ef7d&height=100&section=footer&text=Catch%20you%20on%20the%20next%20commit!%20%F0%9F%9A%80&fontSize=22&fontColor=fff" width="100%"/>

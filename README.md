@@ -103,8 +103,12 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 ## 🎯 Hobbies & Interests
 
+<div align="center">
+
 ![AI & LLMs](https://img.shields.io/badge/🤖_AI_&_LLMs-00D9FF?style=for-the-badge&logoColor=black)
 ![Learning New Tech](https://img.shields.io/badge/📚_Learning_New_Tech-4CAF50?style=for-the-badge&logoColor=white)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -118,4 +122,8 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 </div>
 
-### Thanks for Visiting my GitHub Profile!
+<div align="center">
+
+### Thanks for visiting my GitHub Profile! 👋
+
+</div>

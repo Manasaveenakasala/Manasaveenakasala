@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-Oh Hi there... 👋
+Oh, hi there! Welcome to my GitHub. 👩‍💻
 
 I'm a **Software Engineer II** passionate about building scalable, reliable, and user-focused applications. I have experience working on enterprise-scale products at **Kroger, Microsoft, and Mastercard**, with a strong focus on modern web development and cloud technologies.
 

@@ -94,22 +94,29 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<!--
-  Replace the repo links, titles, and bullets below with your real repos.
-  Keep two columns per row using this table layout; add more rows as needed.
--->
+<!-- Descriptions below are inferred from repo names since none are set on GitHub yet — edit any that don't match. -->
 
-| 🌐 [Project Name 1](https://github.com/Manasaveenakasala/REPO-NAME-1) | ⚙️ [Project Name 2](https://github.com/Manasaveenakasala/REPO-NAME-2) |
-|---|---|
-| One or two lines on what it does, the problem it solves, and why it's interesting. | One or two lines on what it does, the problem it solves, and why it's interesting. |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) |
-
-| 🤖 [Project Name 3](https://github.com/Manasaveenakasala/REPO-NAME-3) | 📱 [Project Name 4](https://github.com/Manasaveenakasala/REPO-NAME-4) |
-|---|---|
-| One or two lines on what it does, the problem it solves, and why it's interesting. | One or two lines on what it does, the problem it solves, and why it's interesting. |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) |
+| Project | Language | Description |
+|---|---|---|
+| [Linked-List](https://github.com/Manasaveenakasala/Linked-List) | Python | Implementation of a singly linked list data structure with core operations. |
+| [Discount-Calculator](https://github.com/Manasaveenakasala/Discount-Calculator) | Python | Calculates discounted prices based on user-defined rules. |
+| [Player-Interface](https://github.com/Manasaveenakasala/Player-Interface) | Python | Interface for managing player data/actions, likely for a game. |
+| [Polygon-Area-Calculator](https://github.com/Manasaveenakasala/Polygon-Area-Calculator) | — | Computes the area of polygons from given coordinates or side lengths. |
+| [Media-catalogue](https://github.com/Manasaveenakasala/Media-catalogue) | Python | Catalog system for organizing and tracking media items. |
+| [Game-Character](https://github.com/Manasaveenakasala/Game-Character) | Python | Character class/system for a game, handling stats and behavior. |
+| [Salary-tracker](https://github.com/Manasaveenakasala/Salary-tracker) | Python | Tracks salary, expenses, or earnings over time. |
+| [Budger-category-ledger-and-spending-chart](https://github.com/Manasaveenakasala/Budger-category-ledger-and-spending-chart) | Python | Budgeting tool with category-based ledger and spending visualizations. |
+| [Email-Simulator](https://github.com/Manasaveenakasala/Email-Simulator) | Python | Simulates sending/receiving emails for testing or learning purposes. |
+| [Musical-Instrument-Inventory](https://github.com/Manasaveenakasala/Musical-Instrument-Inventory) | Python | Inventory management system for musical instruments. |
+| [Medical-data-validator](https://github.com/Manasaveenakasala/Medical-data-validator) | Python | Validates medical data records against defined rules. |
+| [pin-extractor](https://github.com/Manasaveenakasala/pin-extractor) | Python | Extracts PIN codes or similar identifiers from text/data. |
+| [Caesar-Cipher](https://github.com/Manasaveenakasala/Caesar-Cipher) | Python | Classic Caesar cipher encryption/decryption implementation. |
+| [Python](https://github.com/Manasaveenakasala/Python) | Python | Collection of general Python exercises and scripts. |
+| [interview-portal](https://github.com/Manasaveenakasala/interview-portal) | JavaScript | Portal for managing or conducting interviews. |
+| [coffee-brewing-game](https://github.com/Manasaveenakasala/coffee-brewing-game) | Python | A game simulating the coffee brewing process. |
+| [ui-playground](https://github.com/Manasaveenakasala/ui-playground) | — | Sandbox repo for experimenting with UI components and ideas. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

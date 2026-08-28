@@ -118,4 +118,4 @@ I'm a **Software Engineer II** passionate about building scalable, reliable, and
 
 </div>
 
-### See you on the next commit 💻
+### Thanks for Visiting my GitHub Profile!
